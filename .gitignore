@@ -1,0 +1,15 @@
+.vscode/*
+
+.vs/*
+
+/*.user
+
+/packages
+
+/obj
+
+/bin
+
+/Properties/PublishProfiles/*
+
+/.DS_Store
