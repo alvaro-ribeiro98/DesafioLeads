@@ -11,9 +11,9 @@
 
         public static class SendEmail
         {
-            public const string Email = "alvaro.ribeiro16@hotmail.com";
-            public const string Senha = "xlhdmziovgfgmxzs";
-            public const string EmailRecive = "alvarosanrib@gmail.com";
+            public const string Email = "seuemail@email.com";
+            public const string Senha = "suasenha";
+            public const string EmailRecive = "vendas@test.com";
         }
 
         public static class SMTPConfig
